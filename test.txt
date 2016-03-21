@@ -1,0 +1,9 @@
+git config --global user.name "anri6a"
+git config --global user.email anri6a@gmail.com
+
+git config --list
+git status
+git add ...
+git commit -m "..." ...
+git push
+git pull
